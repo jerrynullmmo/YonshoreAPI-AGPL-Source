@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "release_id": "v1.0.0-rc.21-yonshore.oauth-g4",
+  "application_source_url": "https://github.com/jerrynullmmo/YonshoreAPI-AGPL-Source/tree/main/v1.0.0-rc.21-yonshore.oauth-g4",
+  "upstream": {
+    "repository": "https://github.com/QuantumNous/new-api",
+    "tag": "v1.0.0-rc.21",
+    "peeled_commit": "bde9b2f44887d34ec54799ae191d50f97914359e"
+  },
+  "patch_application_order": [
+    "open_email_registration",
+    "oauth_subscription_channel"
+  ],
+  "patch_sha256_ordered": [
+    "d84a3dda112d0361cb34d7a04b47fc364d342d50346f7d7246ca8d7a8b57e6ce",
+    "3da6209f50c1c072d039327cc1ba3c8cbf4155a71651270b73439d973c0a9375"
+  ],
+  "archive": {
+    "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz",
+    "size_bytes": 6957101,
+    "sha256": "8016ad465f8ddfdc98a8c7d78ae88219cabff7a17004957675eadafcbfb9fe03",
+    "part_size_bytes": 750000,
+    "part_count": 10
+  },
+  "parts": [
+    {"order": 0, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-00", "size_bytes": 750000, "sha256": "1e5bdc129ed35f7523e5e0fdfddf3b117de0736eccbc9d64fc933fc116456181"},
+    {"order": 1, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-01", "size_bytes": 750000, "sha256": "533c32e50733382adc088b5d225ef5a2d22b0abb65111d243b63561a3ae876c9"},
+    {"order": 2, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-02", "size_bytes": 750000, "sha256": "bf9184b55a277e6919b1ac9911a50df676531b375897e40525cdd6674941a84a"},
+    {"order": 3, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-03", "size_bytes": 750000, "sha256": "0394cf15af77635f3cde98ff5df274d23d0cccdef2451d466e3029a9de3291d2"},
+    {"order": 4, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-04", "size_bytes": 750000, "sha256": "b53c5e5b5bd9812b42d5793287ca9b931c0d88eaf2f87f49c6dd4b25da72b36e"},
+    {"order": 5, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-05", "size_bytes": 750000, "sha256": "7d106a6985e6835d8afed16ff0cf06f7ea77df69051ae2b96f43cadf67d418ee"},
+    {"order": 6, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-06", "size_bytes": 750000, "sha256": "935996f5a527e112d75111d2d2394a0effe27c6d127116a761e83649485e6bb7"},
+    {"order": 7, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-07", "size_bytes": 750000, "sha256": "247951490041f09cfe9a4086b7fe3c3e2980f7e23c9d4054a5f3d7e649f7a12a"},
+    {"order": 8, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-08", "size_bytes": 750000, "sha256": "7bf702083808ba8b7f800012e95ff45a79f48075c3248966438e1b535f426e89"},
+    {"order": 9, "name": "new-api-v1.0.0-rc.21-yonshore-corresponding-source.tar.gz.part-09", "size_bytes": 207101, "sha256": "422bb1b0d7aa3d8be448729ed2fadefc8ab2e5161782e5095048b642e08ccbdf"}
+  ],
+  "source_published": true,
+  "runtime_artifact_mapped": false,
+  "license_cleared": false,
+  "deployed": false,
+  "production_ready": false
+}
