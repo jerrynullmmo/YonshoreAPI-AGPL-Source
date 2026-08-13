@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "release_id": "v1.0.0-rc.21-yonshore.email-registration-v1",
+  "application_source_url": "https://github.com/jerrynullmmo/YonshoreAPI-AGPL-Source/tree/321b03c41913b22fafa9c324f687969041e8584f/v1.0.0-rc.21-yonshore.email-registration-v1",
+  "upstream": {
+    "repository": "https://github.com/QuantumNous/new-api",
+    "tag": "v1.0.0-rc.21",
+    "peeled_commit": "bde9b2f44887d34ec54799ae191d50f97914359e"
+  },
+  "patch_application_order": [
+    "open_email_registration"
+  ],
+  "patch_sha256_ordered": [
+    "d84a3dda112d0361cb34d7a04b47fc364d342d50346f7d7246ca8d7a8b57e6ce"
+  ],
+  "archive": {
+    "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz",
+    "size_bytes": 5333068,
+    "sha256": "67f266b400d5d559eefae70f47c4d075f59944330d9e077485425abb6991f812",
+    "part_size_bytes": 750000,
+    "part_count": 8
+  },
+  "parts": [
+    {
+      "order": 0,
+      "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz.part-00",
+      "size_bytes": 750000,
+      "sha256": "c92ba01e8cb18c004e3c38a529f20203ca1ed4cadb2123543a0d77eb3557d0c8"
+    },
+    {
+      "order": 1,
+      "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz.part-01",
+      "size_bytes": 750000,
+      "sha256": "6cd6b14382b9c5a449f44683c144d0b685a101c136105e0c39dafa58bee7ec42"
+    },
+    {
+      "order": 2,
+      "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz.part-02",
+      "size_bytes": 750000,
+      "sha256": "1dcc963dbc8201c15216b348398f296edb5716edcf1fdd8be3d713e2bb77553c"
+    },
+    {
+      "order": 3,
+      "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz.part-03",
+      "size_bytes": 750000,
+      "sha256": "8c8215345e3804c3577f634f5e5f8aad7908413b5632f0cc00235d235fd81a57"
+    },
+    {
+      "order": 4,
+      "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz.part-04",
+      "size_bytes": 750000,
+      "sha256": "25a0480a6bd3d067218b2852c4b00aa3059c03d22fa077d6fc44f8b20b3c8665"
+    },
+    {
+      "order": 5,
+      "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz.part-05",
+      "size_bytes": 750000,
+      "sha256": "6ae03259fd9ffc3f38b69dabc0a1fc4b4c52348aa8d1b9fc9987284ef03bc189"
+    },
+    {
+      "order": 6,
+      "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz.part-06",
+      "size_bytes": 750000,
+      "sha256": "f6ef8a85beae270f30b7130c88b24658b5283fa5ee957d406e12b4ca1a44d8a2"
+    },
+    {
+      "order": 7,
+      "name": "new-api-v1.0.0-rc.21-yonshore.email-registration-v1-corresponding-source.tar.gz.part-07",
+      "size_bytes": 83068,
+      "sha256": "4d9138e95615b2cc58525a25cf8a2080de5306513c116b2de1ad7959cee3d57c"
+    }
+  ],
+  "corresponding_source_commit": "321b03c41913b22fafa9c324f687969041e8584f",
+  "runtime_image": "yonshoreapi/new-api:v1.0.0-rc.21-email-registration-v1",
+  "runtime_platform": "linux/amd64",
+  "runtime_image_id": "sha256:829dc179d148e816a10a3abe6c470c2da1005a815aa662c566a2e03c5802019d",
+  "runtime_image_archive_sha256": "b67d76b6a1c2074cd5b355aa2da72542c0b138b39d01d7bbd0aec2f71b3d4733",
+  "runtime_sbom_sha256": "b2ea897e5e6ad5a4955de9a211589610f81d12b6f312e7a86d713f32de247f6e",
+  "sbom_subject": {
+    "runtime_image_id": "sha256:829dc179d148e816a10a3abe6c470c2da1005a815aa662c566a2e03c5802019d",
+    "runtime_config_digest": "sha256:4eec31e1c8700dae41c77fed345d63bdc34e2e68bc7714666ebee356c2aafaac",
+    "runtime_platform": "linux/amd64",
+    "corresponding_source_commit": "321b03c41913b22fafa9c324f687969041e8584f",
+    "syft_subject_version_before_binding": "sha256:03f688df2a3566ccb21e81eb14aff8a5179989f51fe8012a4ffb81c34497a8a9"
+  },
+  "source_published": true,
+  "anonymous_download_verified": true,
+  "runtime_artifact_mapped": true,
+  "license_cleared_for_runtime": true,
+  "deployed": false,
+  "production_ready": false
+}
