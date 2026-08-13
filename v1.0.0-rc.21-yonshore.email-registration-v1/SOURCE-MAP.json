@@ -75,7 +75,14 @@
   "runtime_platform": "linux/amd64",
   "runtime_image_id": "sha256:829dc179d148e816a10a3abe6c470c2da1005a815aa662c566a2e03c5802019d",
   "runtime_image_archive_sha256": "b67d76b6a1c2074cd5b355aa2da72542c0b138b39d01d7bbd0aec2f71b3d4733",
-  "runtime_sbom_sha256": "5ce93cca70b0f65c36178f8c187c5cebfab9bd2bcd71917e5758a38f2af2284a",
+  "runtime_sbom_sha256": "b2ea897e5e6ad5a4955de9a211589610f81d12b6f312e7a86d713f32de247f6e",
+  "sbom_subject": {
+    "runtime_image_id": "sha256:829dc179d148e816a10a3abe6c470c2da1005a815aa662c566a2e03c5802019d",
+    "runtime_config_digest": "sha256:4eec31e1c8700dae41c77fed345d63bdc34e2e68bc7714666ebee356c2aafaac",
+    "runtime_platform": "linux/amd64",
+    "corresponding_source_commit": "321b03c41913b22fafa9c324f687969041e8584f",
+    "syft_subject_version_before_binding": "sha256:03f688df2a3566ccb21e81eb14aff8a5179989f51fe8012a4ffb81c34497a8a9"
+  },
   "source_published": true,
   "anonymous_download_verified": true,
   "runtime_artifact_mapped": true,
