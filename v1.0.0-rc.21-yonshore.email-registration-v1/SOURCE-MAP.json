@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "release_id": "v1.0.0-rc.21-yonshore.email-registration-v1",
-  "application_source_url": "https://github.com/jerrynullmmo/YonshoreAPI-AGPL-Source/tree/agent/open-email-registration-source/v1.0.0-rc.21-yonshore.email-registration-v1",
+  "application_source_url": "https://github.com/jerrynullmmo/YonshoreAPI-AGPL-Source/tree/321b03c41913b22fafa9c324f687969041e8584f/v1.0.0-rc.21-yonshore.email-registration-v1",
   "upstream": {
     "repository": "https://github.com/QuantumNous/new-api",
     "tag": "v1.0.0-rc.21",
@@ -70,13 +70,16 @@
       "sha256": "4d9138e95615b2cc58525a25cf8a2080de5306513c116b2de1ad7959cee3d57c"
     }
   ],
-  "corresponding_source_commit": null,
-  "runtime_image_id": null,
-  "runtime_image_archive_sha256": null,
-  "source_published": false,
-  "anonymous_download_verified": false,
-  "runtime_artifact_mapped": false,
-  "license_cleared_for_runtime": false,
+  "corresponding_source_commit": "321b03c41913b22fafa9c324f687969041e8584f",
+  "runtime_image": "yonshoreapi/new-api:v1.0.0-rc.21-email-registration-v1",
+  "runtime_platform": "linux/amd64",
+  "runtime_image_id": "sha256:829dc179d148e816a10a3abe6c470c2da1005a815aa662c566a2e03c5802019d",
+  "runtime_image_archive_sha256": "b67d76b6a1c2074cd5b355aa2da72542c0b138b39d01d7bbd0aec2f71b3d4733",
+  "runtime_sbom_sha256": "5ce93cca70b0f65c36178f8c187c5cebfab9bd2bcd71917e5758a38f2af2284a",
+  "source_published": true,
+  "anonymous_download_verified": true,
+  "runtime_artifact_mapped": true,
+  "license_cleared_for_runtime": true,
   "deployed": false,
   "production_ready": false
 }
