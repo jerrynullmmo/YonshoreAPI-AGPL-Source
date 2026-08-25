@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "release_id": "v1.0.0-rc.21-yonshore.core-recharge-v1",
-  "application_source_url": "https://github.com/jerrynullmmo/YonshoreAPI-AGPL-Source/tree/agent/core-recharge-source/v1.0.0-rc.21-yonshore.core-recharge-v1",
+  "application_source_url": "https://github.com/jerrynullmmo/YonshoreAPI-AGPL-Source/tree/5c457615983ada05470b6797bf145e7b3501d53f/v1.0.0-rc.21-yonshore.core-recharge-v1",
   "upstream": {
     "repository": "https://github.com/QuantumNous/new-api",
     "tag": "v1.0.0-rc.21",
@@ -72,14 +72,16 @@
       "sha256": "f3a05e2c6ca0e586ea70955420052daf8f3321b3fc40b722a95488be5c3c806a"
     }
   ],
-  "corresponding_source_commit": null,
-  "runtime_image_id": null,
-  "runtime_image_config_digest": null,
-  "runtime_image_archive_sha256": null,
-  "source_published": false,
-  "anonymous_download_verified": false,
-  "runtime_artifact_mapped": false,
-  "license_cleared_for_runtime": false,
+  "corresponding_source_commit": "5c457615983ada05470b6797bf145e7b3501d53f",
+  "runtime_image": "yonshoreapi/new-api:v1.0.0-rc.21-email-registration-core-recharge-v1",
+  "runtime_platform": "linux/amd64",
+  "runtime_image_id": "sha256:dfa36ad5eb97e87e512fdc399c0eea3e72deb0b8cba0718ada1aea60f7ce5662",
+  "runtime_image_config_digest": "sha256:3fa8a313e865828d7d7962b64eed2545aea8be5e3ddc13e2170b19dab6803709",
+  "runtime_image_archive_sha256": "ef35073d6b8bbdd81a221c5d01f9a7bc03eefb6b0e7b068ddf95379dd673fb2d",
+  "source_published": true,
+  "anonymous_download_verified": true,
+  "runtime_artifact_mapped": true,
+  "license_cleared_for_runtime": true,
   "deployed": false,
   "production_ready": false
 }
