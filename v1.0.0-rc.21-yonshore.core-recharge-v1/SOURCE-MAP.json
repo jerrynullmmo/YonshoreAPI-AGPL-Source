@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "release_id": "v1.0.0-rc.21-yonshore.core-recharge-v1",
+  "application_source_url": "https://github.com/jerrynullmmo/YonshoreAPI-AGPL-Source/tree/agent/core-recharge-source/v1.0.0-rc.21-yonshore.core-recharge-v1",
+  "upstream": {
+    "repository": "https://github.com/QuantumNous/new-api",
+    "tag": "v1.0.0-rc.21",
+    "peeled_commit": "bde9b2f44887d34ec54799ae191d50f97914359e"
+  },
+  "patch_application_order": [
+    "open_email_registration",
+    "core_recharge_entry"
+  ],
+  "patch_sha256_ordered": [
+    "d84a3dda112d0361cb34d7a04b47fc364d342d50346f7d7246ca8d7a8b57e6ce",
+    "c5fe86988ac0b1e79e19030aa152e7b77da86bd37302ac5b2d878243f9f6e763"
+  ],
+  "archive": {
+    "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz",
+    "size_bytes": 5367404,
+    "sha256": "09c0dd56152eb90eb2eb92dcd54430c4d2f13697ca2114683a7701a716abb23b",
+    "part_size_bytes": 750000,
+    "part_count": 8
+  },
+  "parts": [
+    {
+      "order": 0,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz.part-00",
+      "size_bytes": 750000,
+      "sha256": "f01b29d591b12f5eb104b48e00562eafbabd2899ca122d66b5a70116f7d00052"
+    },
+    {
+      "order": 1,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz.part-01",
+      "size_bytes": 750000,
+      "sha256": "09720c1d1744353440ab57e1e32064c6c10b60c4fc115088c4d391cd76d67cb5"
+    },
+    {
+      "order": 2,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz.part-02",
+      "size_bytes": 750000,
+      "sha256": "33487d9433d020915ce87cc9313c68db24b818d538293ea0b240f21bba156f8d"
+    },
+    {
+      "order": 3,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz.part-03",
+      "size_bytes": 750000,
+      "sha256": "467379df959f4d01ef37d4a5aedef7ee85f3fe6e52118744a0436629db55c2ba"
+    },
+    {
+      "order": 4,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz.part-04",
+      "size_bytes": 750000,
+      "sha256": "e6e5f7ab727e9d108bc6ddd593f3be6d7dc0c7de6c7331b32bb82997e5d6e949"
+    },
+    {
+      "order": 5,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz.part-05",
+      "size_bytes": 750000,
+      "sha256": "e2571e81914b276b2ddc13b25aad36bd2cfa39db05927c38ba46ea589b5af315"
+    },
+    {
+      "order": 6,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz.part-06",
+      "size_bytes": 750000,
+      "sha256": "ea3ff18be5816645bf845bc5b4ad68a660bd978efcba3dbc0d9846398ed4c9f9"
+    },
+    {
+      "order": 7,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-recharge-v1-corresponding-source.tar.gz.part-07",
+      "size_bytes": 117404,
+      "sha256": "f3a05e2c6ca0e586ea70955420052daf8f3321b3fc40b722a95488be5c3c806a"
+    }
+  ],
+  "corresponding_source_commit": null,
+  "runtime_image_id": null,
+  "runtime_image_config_digest": null,
+  "runtime_image_archive_sha256": null,
+  "source_published": false,
+  "anonymous_download_verified": false,
+  "runtime_artifact_mapped": false,
+  "license_cleared_for_runtime": false,
+  "deployed": false,
+  "production_ready": false
+}
