@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "release_id": "v1.0.0-rc.21-yonshore.core-usage-bridge-v1",
+  "upstream": {
+    "repository": "https://github.com/QuantumNous/new-api",
+    "tag": "v1.0.0-rc.21",
+    "peeled_commit": "bde9b2f44887d34ec54799ae191d50f97914359e"
+  },
+  "patch_application_order": [
+    "open_email_registration",
+    "core_recharge_entry",
+    "core_usage_bridge"
+  ],
+  "patch_sha256_ordered": [
+    "d84a3dda112d0361cb34d7a04b47fc364d342d50346f7d7246ca8d7a8b57e6ce",
+    "c5fe86988ac0b1e79e19030aa152e7b77da86bd37302ac5b2d878243f9f6e763",
+    "b20b859a0574968de2087bee353cd289e616c917be8dd076cc1496555acf9a0e"
+  ],
+  "archive": {
+    "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz",
+    "size_bytes": 5358338,
+    "sha256": "61c45e1e1f5d4139c307952825619410803e17765c70b1af2b0ab44e5644c658",
+    "part_size_bytes": 750000,
+    "part_count": 8
+  },
+  "parts": [
+    {
+      "order": 0,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz.part-00",
+      "size_bytes": 750000,
+      "sha256": "d98f807ee70572fece14849f993f2e88ed9ad7f397d8e77eee7d2e6b9c4ad81f"
+    },
+    {
+      "order": 1,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz.part-01",
+      "size_bytes": 750000,
+      "sha256": "309ed70ee54470e81368f6ee5a62e24ab2144e2454a1979c2624754aed00e31f"
+    },
+    {
+      "order": 2,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz.part-02",
+      "size_bytes": 750000,
+      "sha256": "80955fd226964960bc3ba7e46b46accc2233ebd82a0f62ef2cbc7c2d92cf6e97"
+    },
+    {
+      "order": 3,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz.part-03",
+      "size_bytes": 750000,
+      "sha256": "20ce97e8e467fee0bb93e940beda05b22158b2b8969810b5dfbd6f555b1f455c"
+    },
+    {
+      "order": 4,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz.part-04",
+      "size_bytes": 750000,
+      "sha256": "438ce3223ac544720fde57033faf7d92dcfbff0d7d4e75d49f413263cef58c1d"
+    },
+    {
+      "order": 5,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz.part-05",
+      "size_bytes": 750000,
+      "sha256": "411e6b02b4639d1d6fcf6d8f2c7f1df3fa56d7b882f138c188f400739e1a1dfa"
+    },
+    {
+      "order": 6,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz.part-06",
+      "size_bytes": 750000,
+      "sha256": "23a583e19f04fad8886617e225d9136bc1d98beeffb2c664219f8d0156b17548"
+    },
+    {
+      "order": 7,
+      "name": "new-api-v1.0.0-rc.21-yonshore.core-usage-bridge-v1-corresponding-source.tar.gz.part-07",
+      "size_bytes": 108338,
+      "sha256": "46e6b1f36bd6541a8fc1aaee3229b1fc71e69dcbcf3ef7ce9dba2a7cf4f038da"
+    }
+  ],
+  "corresponding_source_commit": null,
+  "runtime_image": "yonshoreapi/new-api:v1.0.0-rc.21-email-registration-core-usage-bridge-v1",
+  "runtime_platform": "linux/amd64",
+  "runtime_image_id": null,
+  "runtime_image_config_digest": null,
+  "runtime_image_archive_sha256": null,
+  "source_published": false,
+  "anonymous_download_verified": false,
+  "runtime_artifact_mapped": false,
+  "license_cleared_for_runtime": true,
+  "deployed": false,
+  "production_ready": false
+}
