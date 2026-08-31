@@ -73,15 +73,15 @@
       "sha256": "46e6b1f36bd6541a8fc1aaee3229b1fc71e69dcbcf3ef7ce9dba2a7cf4f038da"
     }
   ],
-  "corresponding_source_commit": null,
+  "corresponding_source_commit": "6b7303fd23cf8ed21d2d9906e85b2d7619f87c72",
   "runtime_image": "yonshoreapi/new-api:v1.0.0-rc.21-email-registration-core-usage-bridge-v1",
   "runtime_platform": "linux/amd64",
-  "runtime_image_id": null,
-  "runtime_image_config_digest": null,
-  "runtime_image_archive_sha256": null,
-  "source_published": false,
-  "anonymous_download_verified": false,
-  "runtime_artifact_mapped": false,
+  "runtime_image_id": "sha256:dad476e947a43fb0a4b55e112e5bff3eab414fe5e5c30d43e7edd98c70f78347",
+  "runtime_image_config_digest": "sha256:83b9381b8db7d59005c9f00b1e02b71be6e980f369d11cd10973f81e1e06d79c",
+  "runtime_image_archive_sha256": "f85f411787cd9d00113d8965b4d1b631c3fd181667a537b2841fd3015855748f",
+  "source_published": true,
+  "anonymous_download_verified": true,
+  "runtime_artifact_mapped": true,
   "license_cleared_for_runtime": true,
   "deployed": false,
   "production_ready": false
