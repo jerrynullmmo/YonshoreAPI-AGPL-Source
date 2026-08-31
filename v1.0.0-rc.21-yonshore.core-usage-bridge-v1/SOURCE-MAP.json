@@ -83,6 +83,6 @@
   "anonymous_download_verified": true,
   "runtime_artifact_mapped": true,
   "license_cleared_for_runtime": true,
-  "deployed": false,
+  "deployed": true,
   "production_ready": false
 }
