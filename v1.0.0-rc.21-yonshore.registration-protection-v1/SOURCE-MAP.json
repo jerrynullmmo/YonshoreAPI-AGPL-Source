@@ -24,59 +24,53 @@
   ],
   "archive": {
     "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz",
-    "size_bytes": 5329729,
-    "sha256": "fd34bb14ab1fba7e04d6b8fd07d3500158e53525e28a77826d67db9239b842f4",
+    "size_bytes": 5206551,
+    "sha256": "c72683f88cfc38f825df37b0b2a1624ceff637b3643f1ae4b83c24872211639c",
     "part_size_bytes": 750000,
-    "part_count": 8
+    "part_count": 7
   },
   "parts": [
     {
       "order": 0,
       "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz.part-00",
       "size_bytes": 750000,
-      "sha256": "7351e5bffa52a4a2aa1796b65779764688473bab48e46eb362754d4994cdf689"
+      "sha256": "eadb3c07247f5a1ab8e03583dd0fba52471890c79830aff04816fbc4ed39211c"
     },
     {
       "order": 1,
       "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz.part-01",
       "size_bytes": 750000,
-      "sha256": "3cd7fd98b15a810953022282e7ffba873b8178f5e1d67546f497315326772ac1"
+      "sha256": "d03fd1288a552b8a9cac221f5d93c898643399d6238ab22b078e32c006462e1a"
     },
     {
       "order": 2,
       "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz.part-02",
       "size_bytes": 750000,
-      "sha256": "3b4919fe2d2ed3b5854dad67b354a96513c3364f0f9f0cea03fb5fd772e83f36"
+      "sha256": "ab74ca8768a75ed21f9fc060f99166a2b9e965c9138417638290e4f9da19e1d1"
     },
     {
       "order": 3,
       "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz.part-03",
       "size_bytes": 750000,
-      "sha256": "339072045cfee58d4203ac4c847f99264e15dc7a280ce13069f739f0845064dd"
+      "sha256": "02b00789a049af719f9042147a93753ea86f839cd2a6f3f4c819f643581a7eb8"
     },
     {
       "order": 4,
       "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz.part-04",
       "size_bytes": 750000,
-      "sha256": "c1cdaea4026d566be3f02984741cac9936f744012ed59650e9036c7f92979ead"
+      "sha256": "178d043da9c46bbdd6a57696bec5c900cdfa9997eb016537f50128aabd6b46c1"
     },
     {
       "order": 5,
       "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz.part-05",
       "size_bytes": 750000,
-      "sha256": "085a124105beb38f05bf88c54d73beda6839fd2bd24814bcc8cadfaa01861bf0"
+      "sha256": "14deeea1f26b5a05128ac2fb32b496958bce6428d140272a9e50bdafbbbbd69f"
     },
     {
       "order": 6,
       "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz.part-06",
-      "size_bytes": 750000,
-      "sha256": "b9b0b761b001552074f4055b4634fb3f2d0aaf4083e01176eaf29574dc3e996e"
-    },
-    {
-      "order": 7,
-      "name": "new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz.part-07",
-      "size_bytes": 79729,
-      "sha256": "3e4384614aa00ffae6344cdc5700af94932078e3bd27af7fbccf96ecaee101f5"
+      "size_bytes": 706551,
+      "sha256": "5a0a9758ccd4882f7036f7c86be874554cbe6fcfdbb5d886f4c5869d990cb16a"
     }
   ],
   "corresponding_source_commit": null,

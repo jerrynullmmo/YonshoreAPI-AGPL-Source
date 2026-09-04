@@ -2,13 +2,13 @@
 set -Eeuo pipefail
 
 archive="new-api-v1.0.0-rc.21-yonshore.registration-protection-v1-corresponding-source.tar.gz"
-expected_size=5329729
-expected_sha256="fd34bb14ab1fba7e04d6b8fd07d3500158e53525e28a77826d67db9239b842f4"
+expected_size=5206551
+expected_sha256="c72683f88cfc38f825df37b0b2a1624ceff637b3643f1ae4b83c24872211639c"
 
 script_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 cd "$script_dir"
 
-for index in 00 01 02 03 04 05 06 07; do
+for index in 00 01 02 03 04 05 06; do
   part="parts/${archive}.part-${index}"
   [[ -s "$part" ]] || {
     echo "缺少源码分片：$part" >&2
