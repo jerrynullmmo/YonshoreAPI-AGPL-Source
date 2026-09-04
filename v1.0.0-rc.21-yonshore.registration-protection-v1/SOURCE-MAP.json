@@ -73,15 +73,15 @@
       "sha256": "5a0a9758ccd4882f7036f7c86be874554cbe6fcfdbb5d886f4c5869d990cb16a"
     }
   ],
-  "corresponding_source_commit": null,
+  "corresponding_source_commit": "5598bba9f74cfeb506206cbc966bb3e88e33dd99",
   "runtime_image": "yonshoreapi/new-api:v1.0.0-rc.21-core-usage-registration-protection-v1",
   "runtime_platform": "linux/amd64",
-  "runtime_image_id": null,
-  "runtime_image_config_digest": null,
-  "runtime_image_archive_sha256": null,
-  "source_published": false,
-  "anonymous_download_verified": false,
-  "runtime_artifact_mapped": false,
+  "runtime_image_id": "sha256:b2530daf2e7a316c01533d6a586d501200e67dab9749c5d96540c41b00286377",
+  "runtime_image_config_digest": "sha256:6b5b9d623395e1643d5c96851a507fe9838879db4ab7716d31c268546c34c278",
+  "runtime_image_archive_sha256": "21f4cc5dd876b6e18f490d7c83aba7d91c767b025b32c08ea6d3e1d7737d1001",
+  "source_published": true,
+  "anonymous_download_verified": true,
+  "runtime_artifact_mapped": true,
   "license_cleared_for_runtime": true,
   "deployed": false,
   "production_ready": false
