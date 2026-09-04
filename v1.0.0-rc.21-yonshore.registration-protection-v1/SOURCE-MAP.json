@@ -83,6 +83,12 @@
   "anonymous_download_verified": true,
   "runtime_artifact_mapped": true,
   "license_cleared_for_runtime": true,
-  "deployed": false,
-  "production_ready": false
+  "deployed": true,
+  "deployed_at_utc": "2026-09-04T14:00:15Z",
+  "email_verification_enabled": true,
+  "turnstile_check_enabled": true,
+  "production_path_passed": true,
+  "production_ready": false,
+  "integration_ready": false,
+  "model_provider_work_deferred": true
 }
